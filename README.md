@@ -1,3 +1,4 @@
+[![UseSQL Logo](https://www.usesql.com/static/images/cover.png)](https://www.usesql.com)
 # Product Roadmap
 
 This roadmap contains all the tweaks, improvements and new features we plan for UseSQL. Of course, things change and we may shuffle priorities at any time. At UseSQL we learn A TON from talking to users, so don't hesitate to contact us with your ideas and feedback.
