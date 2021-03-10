@@ -9,6 +9,6 @@ jobs:
       with:
         action-token: "${{ secrets.ROADMAP_TOKEN }}"
         project-url: "https://github.com/usesql/roadmap/projects/1"
-        column-name: "Approved Features"
-        label-name: "Approved"
+        column-name: "Accepted Features"
+        label-name: "Accepted"
         columns-to-ignore: "*"
