@@ -11,4 +11,4 @@ jobs:
         project-url: "https://github.com/usesql/roadmap/projects/1"
         column-name: "Approved Features"
         label-name: "Approved"
-        columns-to-ignore: "Approved Features,In Progress,Released"
+        columns-to-ignore: "In Progress,Released"
