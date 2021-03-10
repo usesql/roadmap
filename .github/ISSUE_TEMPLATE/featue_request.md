@@ -1,6 +1,7 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest an idea for UsSQL
+labels: Feature Request
 
 ---
 
