@@ -1,6 +1,6 @@
 # Product Roadmap
 
-This roadmap contains all the tweaks, improvements and new features we plan for Checkly. Of course, things change and we may shuffle priorities at any time. At Checkly we learn A TON from talking to users, so don't hesitate to contact us with your ideas and feedback.
+This roadmap contains all the tweaks, improvements and new features we plan for UseSQL. Of course, things change and we may shuffle priorities at any time. At UseSQL we learn A TON from talking to users, so don't hesitate to contact us with your ideas and feedback.
 
 Check the out [Roadmap for UseSQL](https://github.com/usesql/roadmap/projects/1) for an overview.
 
